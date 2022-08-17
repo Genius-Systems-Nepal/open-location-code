@@ -14,7 +14,7 @@
  limitations under the License.
 */
 
-import 'package:open_location_code/open_location_code.dart' as olc;
+/*import 'package:open_location_code/open_location_code.dart' as olc;
 import 'package:test/test.dart';
 
 void main() {
@@ -24,4 +24,4 @@ void main() {
     expect(olc.clipLatitude(10.0), 10.0);
     expect(olc.clipLatitude(-10.0), -10.0);
   });
-}
+}*/

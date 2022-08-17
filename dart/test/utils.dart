@@ -1,3 +1,4 @@
+/*
 import 'dart:io';
 import 'package:path/path.dart' as path;
 
@@ -20,3 +21,4 @@ String cvsWithAbsolutePath(String file) => path.absolute(testDataPath(), file);
 
 List<String> csvLinesFromFile(String file) =>
     getCsvLines(cvsWithAbsolutePath(file));
+*/
